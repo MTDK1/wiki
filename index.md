@@ -1,4 +1,4 @@
 # Links
 
-- [Blockchain DevUx](https://bdevx.github.io/wiki/)
+- [Blockchain DevUx](https://bdevux.github.io/wiki/)
 - [IB Wallet](https://github.com/ibchain/IBWallet)
